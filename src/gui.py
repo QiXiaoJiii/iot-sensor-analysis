@@ -1016,7 +1016,7 @@ class SensorAnalysisGUI:
         messagebox.showinfo(
             "关于",
             f"{self.APP_TITLE}\n\n"
-            "作者: xxu\n"
+            "作者: Anonymous\n"
             "技术栈: Python + Tkinter + Pandas + Matplotlib\n"
             "功能: 多源传感器数据接入、处理、分析与可视化\n\n"
             "本软件仅供学习和研究使用",
