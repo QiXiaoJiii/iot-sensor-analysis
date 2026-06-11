@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.spec
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Output
+output/
+output_test/
+output_test2/
+
+# Personal
+陈鹏旭_简历.docx
+面试准备_陈鹏旭.md
+
+# Installer artifacts
+installer/
+
+# OS
+.DS_Store
+Thumbs.db
